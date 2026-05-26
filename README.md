@@ -9,13 +9,13 @@
 ## 결과
 
 ### WebGL 3DGS Viewer
-![3DGS Result](docs/images/result_3dgs.png)
+![3DGS Result](src/docs/images/result_3dgs.png)
 
 ### SfM Sparse Reconstruction
-![SfM Result](docs/images/result_sfm.png)
+![SfM Result](src/docs/images/result_sfm.png)
 
 ### 원본 입력 이미지 예시
-![Input Sample](docs/images/input_sample.jpg)
+![Input Sample](src/docs/images/input_sample.jpg)
 | 25장 이미지 → 카메라 포즈 + Point Cloud | 2,758,551개 Gaussian → 실시간 렌더링 |
 
 > 킥보드를 360° 촬영한 25장 이미지로 재구성한 결과입니다.
